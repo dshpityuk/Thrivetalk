@@ -1,0 +1,151 @@
+.body {
+    margin: 0;
+    font-family: 'Tahoma', sans-serif;
+    font-style: normal;
+}
+
+.photo {
+    background-color: #343B42;
+    background-image: url('../img/mainbg.jpg');
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.header {
+    padding-top: 18px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1040px;
+
+}
+
+.menu {
+    margin-top: 67px;
+}
+
+.menu a {
+    margin-right: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header_btn {
+    /* text */
+    margin-top: 47px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    /* btn */
+    width: 200px;
+    height: 50px;
+    background: #62D0DF;
+    text-transform: uppercase;
+    border: none;
+}
+
+.main_title {
+    margin-top: 77px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    color: #FFFFFF;
+}
+
+.main_text {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 140%;
+    color: #D6D6D6;
+}
+
+.main_btn {
+    /* text */
+    margin-top: 66px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    /* btn */
+    width: 200px;
+    height: 50px;
+    background: #F9B640;
+    text-transform: uppercase;
+    border: none;
+
+}
+
+.main_descr {
+    margin-top: 47px;
+    padding-bottom: 65px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-bottom: 0;
+}
+
+.mid_section {
+    min-height: 665px;
+    background-color: #62D0DF;
+}
+
+.mid_title {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 73px;
+    padding-bottom: 45px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    color: #000000;
+}
+
+.items {
+    padding: 40px 40px 10px 40px;
+    background-color: #C4C4C4;
+}
+
+.mid_p {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 24px;
+    line-height: 140%;
+    color: #0B0B0B;
+}
+
+.bot_section {
+    height: 696px;
+    background: url('../img/strawberry.jpg')center no-repeat;
+}
+
+.bot_title {
+    margin: 0;
+    padding-top: 100px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    color: #720E0E;
+}
+
+.bot_items {
+    margin-top: 63px;
+}
+
+.bot_p {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
